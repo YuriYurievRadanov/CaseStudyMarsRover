@@ -1,0 +1,12 @@
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\bin\Debug\netcoreapp3.1\CaseStudyMarsRover.exe
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\bin\Debug\netcoreapp3.1\CaseStudyMarsRover.deps.json
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\bin\Debug\netcoreapp3.1\CaseStudyMarsRover.runtimeconfig.json
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\bin\Debug\netcoreapp3.1\CaseStudyMarsRover.runtimeconfig.dev.json
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\bin\Debug\netcoreapp3.1\CaseStudyMarsRover.dll
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\bin\Debug\netcoreapp3.1\CaseStudyMarsRover.pdb
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\obj\Debug\netcoreapp3.1\CaseStudyMarsRover.csproj.CoreCompileInputs.cache
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\obj\Debug\netcoreapp3.1\CaseStudyMarsRover.AssemblyInfoInputs.cache
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\obj\Debug\netcoreapp3.1\CaseStudyMarsRover.AssemblyInfo.cs
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\obj\Debug\netcoreapp3.1\CaseStudyMarsRover.dll
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\obj\Debug\netcoreapp3.1\CaseStudyMarsRover.pdb
+C:\Users\KTN43990\Desktop\downLOAD\CaseStudyMarsRover\CaseStudyMarsRover\obj\Debug\netcoreapp3.1\CaseStudyMarsRover.genruntimeconfig.cache

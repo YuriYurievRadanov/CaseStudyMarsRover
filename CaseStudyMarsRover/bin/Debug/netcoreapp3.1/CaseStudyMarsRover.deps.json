@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CaseStudyMarsRover/1.0.0": {
+        "runtime": {
+          "CaseStudyMarsRover.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaseStudyMarsRover/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
